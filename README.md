@@ -116,6 +116,8 @@ python readme_to_pdf.py https://github.com/psf/requests -o requests.pdf
 python readme_to_pdf.py https://github.com/myorg/private-repo --token ghp_xxxx
 ```
 
+![Usage on Windows cmdline](samples/readme-to-pdf-screenshot.png)  
+
 ---
 
 ## Troubleshooting
