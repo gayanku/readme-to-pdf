@@ -103,7 +103,7 @@ def render_pdf(html: str, output_path: str) -> None:
 
 ```bash
 
-# FastAPI docs
+# This repo's docs
 python readme_to_pdf.py https://github.com/gayanku/readme-to-pdf
 
 # FastAPI docs
